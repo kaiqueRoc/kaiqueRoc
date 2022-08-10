@@ -19,15 +19,18 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="kaique-Js" height="30" width="40" a="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kaique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="kaique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="kaiue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kaique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="kaique-Js" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183796225-7d4394b5-bfaa-4ab6-a75a-4993272a26b8.png">
+  <img align="center" alt="kaique-React" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183795560-64b20c8f-c04b-4737-b502-03d53966d644.png">
+  <img align="center" alt="kaique-HTML" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183796343-fd40cf8e-dd65-4b63-98ee-d5087abb4b0a.png">
+  <img align="center" alt="kaique-CSS" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183796432-1c61bb8b-f38b-4845-b0b1-713e24d588ec.png">
+  <img align="center" alt="kaique-Csharp" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183795764-c2854ee4-976c-4587-a895-c549e0233091.png">
+  <img align="center" alt="kaique-json" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183796120-f65d4984-bef1-4eb1-81ff-d456dcd95b4c.png">        
+  <img align="center" alt="kaique-dataBse" height="50" width="50" src="https://user-images.githubusercontent.com/75712250/183795927-d426e4c2-8e7f-4600-ae69-b97087e6501d.png">
   <img align="right" alt=kaique-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/75712250/183793590-39ba2e51-9fbf-4c45-bf48-833991c2ba91.png">
 </div>
 
   ##
+  
+  
+          
   
