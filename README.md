@@ -2,7 +2,7 @@
 
           
 
-- 🔭 Atualmente estou trabalhado com backend utilizando a PHP/AJAX/ MYSQL
+- 🔭 Atualmente estou trabalhado com backend utilizando a PHP/AJAX/ POstgree
 - 🌱 Estou estudando React native para criação de um projeto da faculdade em mobile.
 - 📫 Pode me procurar kaiquerocc@gmail.com
 - 😄 Pronouns: ELE/DELE
