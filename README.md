@@ -2,7 +2,7 @@
 
           
 
-- 🔭 Atualmente estou atuando como desenvolvedor Full Stack
+- 🔭 Atualmente estou atuando como software engineer
 
 <div align="center">
 
