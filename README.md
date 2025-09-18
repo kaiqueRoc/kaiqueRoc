@@ -3,15 +3,15 @@
 <p><strong>Software Engineer | Backend Developer | Microservices Specialist</strong></p>
 
 <p>
-Atuo com desenvolvimento de <strong>microsserviços e integrações de alto desempenho</strong>, sempre com foco em <strong>escalabilidade, performance e boas práticas</strong>. 
-Tenho experiência sólida em <strong>PHP (Hyperf)</strong>, <strong>Node.js</strong> e <strong>Go</strong>, trabalhando com soluções distribuídas, mensageria e monitoramento em ambientes modernos de cloud.
+Atuo com desenvolvimento de <strong>microsserviços e integrações de alto desempenho</strong>, sempre com foco em <strong>escalabilidade, performance e boas práticas</strong>.
+Tenho experiência sólida em <strong>PHP (Hyperf)</strong>, <strong>Node.js</strong> e <strong>Go</strong>, e também no front-end com <strong>React</strong> e <strong>Next.js</strong> usando <strong>TypeScript</strong>, trabalhando com soluções distribuídas, mensageria e monitoramento em cloud.
 </p>
 
 <hr/>
 
 <h2>🚀 Tecnologias & Ferramentas</h2>
 <ul>
-  <li><strong>Linguagens & Frameworks:</strong> PHP (Hyperf), Node.js, Go, Express, Loopback 4, AngularJS</li>
+  <li><strong>Linguagens & Frameworks:</strong> PHP (Hyperf), Node.js, Go, TypeScript, React, Next.js, Express, Loopback 4, AngularJS</li>
   <li><strong>Microsserviços & Integrações:</strong> REST, SOAP, APIs distribuídas</li>
   <li><strong>Bancos de Dados:</strong> PostgreSQL, SQL Server, DynamoDB</li>
   <li><strong>Mensageria & Cache:</strong> RabbitMQ, Redis</li>
@@ -32,10 +32,10 @@ Tenho experiência sólida em <strong>PHP (Hyperf)</strong>, <strong>Node.js</st
 
 <h2>✨ Sobre mim</h2>
 <ul>
-  <li>🔭 Atualmente trabalho com <strong>integrações de hotéis, transporte rodoviário e câmbio</strong></li>
-  <li>⚡ Curioso sobre <strong>arquiteturas distribuídas e sistemas de alta performance</strong></li>
-  <li>📈 Apaixonado por <strong>boas práticas, clean code e monitoramento proativo</strong></li>
-  <li>🎵 Além da tecnologia, também produzo música eletrônica como hobby 🎧</li>
+  <li>🔭 Integrações de <strong>hotéis, transporte rodoviário e câmbio</strong></li>
+  <li>🧩 Backend com <strong>PHP/Node</strong> e front-end com <strong>React/Next.js (TypeScript)</strong></li>
+  <li>📈 Boas práticas, clean code e monitoramento proativo</li>
+  <li>🎵 Hobby: produção musical eletrônica 🎧</li>
 </ul>
 
 <hr/>
