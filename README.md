@@ -15,7 +15,7 @@
 
 Engenheiro de software com **+5 anos** de experiência em aplicações web e integrações complexas. Bacharel em **Engenharia de Software (PUC Minas)**. Atuo com **microsserviços de alto desempenho**, APIs REST/SOAP, mensageria e cloud — com foco em **escalabilidade, segurança e clean code**.
 
-Atualmente na **NeoTrip**, construindo soluções para o setor hoteleiro com tecnologia e IA. Antes, integrei e mantive microsserviços em **viagens corporativas** (hotéis, transporte rodoviário e câmbio) em ambientes distribuídos de alta demanda.
+Atualmente na **NeoTrip**, com **TypeScript**, integrações **REST/SOAP**, **ADR**, **Design Docs**, **Sentry**, **SonarQube**, IA de code review e **CI/CD** com orquestração de agentes. Antes, integrei e mantive microsserviços em **viagens corporativas** (hotéis, transporte rodoviário e câmbio) em ambientes distribuídos de alta demanda.
 
 ---
 
