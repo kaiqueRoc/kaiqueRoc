@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqueroc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiqueRoc)
-[![Location](https://img.shields.io/badge/Belo%20Horizonte-MG-555?style=for-the-badge)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-8be9fd?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://kaiqueroc.github.io)
 
 </div>
