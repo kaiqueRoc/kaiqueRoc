@@ -14,7 +14,7 @@
 
 Backend engineer with **5+ years** building microservices, distributed systems and third-party integrations, most of it in **travel tech**.
 
-At **Onfly** I work on the **Python** and **Node.js** services behind the travel booking platform: provider integrations, queue-based processing with **RabbitMQ** and **Redis**, and backend features that call **LLM APIs** to take manual steps out of business workflows. I track production issues with **Grafana** and **Sentry** and tune **PostgreSQL** queries when an endpoint gets slow.
+Most recently I was an **AI Engineer at NeoTrip**, working on an AI-native hotel search and booking platform: integration adapters for PMS and hotel providers, pricing and validation rules, and **Node.js** and **TypeScript** services. Before that, at **Onfly**, I worked on the **Python** and **Node.js** services behind the travel booking platform: provider integrations, queue-based processing with **RabbitMQ** and **Redis**, and backend features that call **LLM APIs** to take manual steps out of business workflows.
 
 ---
 
@@ -22,8 +22,8 @@ At **Onfly** I work on the **Python** and **Node.js** services behind the travel
 
 | Period | Role | Company |
 |--------|------|---------|
-| Sep 2024 — present | Senior Backend Engineer & AI Engineer | **Onfly** |
 | Jan 2026 — Sep 2026 | AI Engineer | **NeoTrip** |
+| Sep 2024 — Jan 2026 | Senior Backend Engineer & AI Engineer | **Onfly** |
 | Mar 2022 — Aug 2024 | Backend Engineer & Security Engineer | **Grupo Techshop** |
 | Jan 2021 — Feb 2022 | Software Engineer (Contract) | **Link Certificação Digital** |
 
